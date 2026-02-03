@@ -1,0 +1,32 @@
+# Eclipse / IDE specific
+/.classpath
+/.project
+/.settings/
+/bin/
+/target/
+/build/
+
+# Tomcat / server specific
+/.idea/
+*.war
+*.log
+*.tmp
+
+# Database drivers (you don’t need to push jars, can use Maven/Gradle if possible)
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.class
+*.cache
+*.swp
+*.swo
+
+# Maven / Gradle (if you decide to use build tools)
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/build/

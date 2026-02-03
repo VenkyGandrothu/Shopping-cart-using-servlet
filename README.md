@@ -37,7 +37,5 @@ This project allows users to **register, login, browse products, and add them to
 - **Apache Tomcat** server
 - **Eclipse IDE** (or any Java IDE)
 
----
 
-## Project Structure
 
